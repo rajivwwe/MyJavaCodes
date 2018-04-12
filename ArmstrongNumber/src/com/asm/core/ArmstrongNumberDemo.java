@@ -29,7 +29,9 @@ public class ArmstrongNumberDemo {
 	
 }
 
-/*public class Armstrong
+/*To check entered number is Armstrong Number or Not.*/
+
+public class Armstrong
 		{
 		    public static void main(String[] args) 
 		     {
@@ -53,4 +55,4 @@ public class ArmstrongNumberDemo {
 
 	}
 
-}*/
+}
